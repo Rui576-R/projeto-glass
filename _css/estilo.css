@@ -25,7 +25,15 @@ header#cabecalho img#icone {
 }
 
 header#cabecalho {
-    
+    border-bottom: 1px #606060 solid;
+    height: 155px;
+    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0 100px;
+}
+
+header#cabecalho h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    color: #606060;
 }
 
 /* Formatação de imagens com legendas */
